@@ -25,4 +25,6 @@ Pandas, NumPy: For data manipulation and preprocessing.
 
 Matplotlib, Seaborn: For data visualization.
 
+plotly: for data visualization
+
 Scikit-learn: For model training and evaluation.
