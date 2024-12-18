@@ -20,6 +20,9 @@ Highly accurate predictions achieved through model optimization.
 
 ## Technologies Used
 Python: For data analysis and model training.
+
 Pandas, NumPy: For data manipulation and preprocessing.
+
 Matplotlib, Seaborn: For data visualization.
+
 Scikit-learn: For model training and evaluation.
